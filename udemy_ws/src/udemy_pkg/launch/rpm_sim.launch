@@ -1,0 +1,5 @@
+<launch>
+  <node name="rpm_pub_node" pkg="udemy_pkg" type="rpm_pub.py" />
+  <param name="wheel_radius" type="double" value="1.0" />
+  <node name="speed_calc_sub_node" pkg="udemy_pkg" type="speed_calc.py" />
+</launch>

@@ -1,0 +1,2 @@
+udemy_pkg
+-DCATKIN_DEVEL_PREFIX=/media/guruadp/New Volume/Projects/ROS/udemy_ws/devel -DCMAKE_INSTALL_PREFIX=/media/guruadp/New Volume/Projects/ROS/udemy_ws/install -G Unix Makefiles
